@@ -1,5 +1,11 @@
+
 void doStashprocess{
 	sysout(10);
+}
+
+
+void do Process{
+	sysout();
 }
 
 
