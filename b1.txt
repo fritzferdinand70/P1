@@ -1,1 +1,8 @@
-in branch b1
+
+
+after stash
+
+
+
+
+1 2

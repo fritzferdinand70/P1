@@ -1,0 +1,21 @@
+
+void doStashprocess{
+	sysout(10);
+}
+
+
+void do Process{
+	sysout();
+}
+
+
+
+go cold heart.
+
+
+
+
+class C{
+	int p;
+	int q;
+}
